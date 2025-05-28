@@ -30,3 +30,8 @@ a {
 a:hover {
 	text-decoration: underline;
 }
+
+#skills {
+  padding-left: 0;
+}
+
